@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kyle-calculator": {
+      "hosting": {
+        "kyle-calculator": [
+          "kyle-calculator"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "kyle-calculator"
+  }
+}
